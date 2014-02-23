@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 0,
+        "filename" : "Lighthouse.obj",
+        "translation" : [0.0, 0.0, 0.0],
+        "rotation" : [0.0, 90.0, 0.0],
+        "scale" : 1.0
+    },
+ 
+    {
+        "id" : 1,
+        "filename" : "LighthouseTerrain.obj",
+        "translation" : [0.0, 0.0, 0.0],
+        "rotation" : [0.0, 0.0, 0.0],
+        "scale" : 1.0
+    }
+]
